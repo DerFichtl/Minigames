@@ -5,7 +5,7 @@ Many Minigames
 Try
 ---
 
-[TOD]
+[TODO]
 
 
 License
