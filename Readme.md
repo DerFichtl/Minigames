@@ -5,7 +5,7 @@ Many Minigames
 Try
 ---
 
-[TODO]
+https://minigames.m-f.host
 
 
 License
